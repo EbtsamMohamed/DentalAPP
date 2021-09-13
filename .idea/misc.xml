@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Al_OsTaZ/ebtsamdemo1/app/src/main/res/drawable-mcc200/countrycode.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Al_OsTaZ/ebtsamdemo1/app/src/main/res/drawable/custom_acc.xml" value="0.1648148148148148" />
+        <entry key="..\:/Users/Al_OsTaZ/ebtsamdemo1/app/src/main/res/drawable/custom_age.xml" value="0.19054054054054054" />
+        <entry key="..\:/Users/Al_OsTaZ/ebtsamdemo1/app/src/main/res/drawable/custom_btn.xml" value="0.14351851851851852" />
+        <entry key="..\:/Users/Al_OsTaZ/ebtsamdemo1/app/src/main/res/drawable/custom_email.xml" value="0.1648148148148148" />
+        <entry key="..\:/Users/Al_OsTaZ/ebtsamdemo1/app/src/main/res/drawable/custom_input.xml" value="0.19054054054054054" />
+        <entry key="..\:/Users/Al_OsTaZ/ebtsamdemo1/app/src/main/res/drawable/custom_lock.xml" value="0.1648148148148148" />
+        <entry key="..\:/Users/Al_OsTaZ/ebtsamdemo1/app/src/main/res/drawable/custom_phone.xml" value="0.1648148148148148" />
+        <entry key="..\:/Users/Al_OsTaZ/ebtsamdemo1/app/src/main/res/drawable/edt_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/Al_OsTaZ/ebtsamdemo1/app/src/main/res/drawable/ic_baseline_acc.xml" value="0.2203125" />
+        <entry key="..\:/Users/Al_OsTaZ/ebtsamdemo1/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1648148148148148" />
+        <entry key="..\:/Users/Al_OsTaZ/ebtsamdemo1/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1648148148148148" />
+        <entry key="..\:/Users/Al_OsTaZ/ebtsamdemo1/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1648148148148148" />
+        <entry key="..\:/Users/Al_OsTaZ/ebtsamdemo1/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.1648148148148148" />
+        <entry key="..\:/Users/Al_OsTaZ/ebtsamdemo1/app/src/main/res/drawable/ic_email.xml" value="0.1648148148148148" />
+        <entry key="..\:/Users/Al_OsTaZ/ebtsamdemo1/app/src/main/res/drawable/ic_phone.xml" value="0.19054054054054054" />
+        <entry key="..\:/Users/Al_OsTaZ/ebtsamdemo1/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Al_OsTaZ/ebtsamdemo1/app/src/main/res/layout/activity_main2.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

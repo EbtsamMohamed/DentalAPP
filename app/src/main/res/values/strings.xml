@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dental Care App</string>
+    <string name="new_acc">Create New Account</string>
+    <string name="signup">Sign up</string>
+    <string name="next">Next</string>
+    <string name="App_desc">This application will help you find the best dentist at the price you prefer and will allow you to book your appointment with ease. We hope you enjoy our app! </string>
+
+</resources>
