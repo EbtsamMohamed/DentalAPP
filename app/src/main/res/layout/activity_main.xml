@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="@drawable/img">
+
+      <TextView
+        android:layout_margin="15dp"
+        android:padding="4dp"
+        style="@style/custom_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/signup"
+        android:textSize="25sp"
+        android:textColor="@color/my_color2"
+        android:layout_gravity="left"
+          />
+
+      <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal">
+        <EditText
+
+            android:id="@+id/edt_fullname"
+            style="@style/custom_style"
+            android:drawableLeft="@drawable/ic_baseline_acc"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:background="@color/my_color"
+            android:hint="     Full Name" />
+
+      </LinearLayout>
+
+      <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+         <EditText
+            android:id="@+id/edt_email"
+            style="@style/custom_style"
+             android:drawableLeft="@drawable/ic_email"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:background="@color/my_color"
+            android:hint="     Enter your E-mail"
+           />
+      </LinearLayout>
+
+      <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/edt_phone"
+            style="@style/custom_style"
+            android:layout_width="0dp"
+            android:drawableLeft="@drawable/ic_phone"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/my_color"
+            android:inputType="phone"
+            android:hint="     Enter your phone"
+            />
+
+      </LinearLayout>
+
+      <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/edt_password"
+            style="@style/custom_style"
+            android:layout_width="0dp"
+            android:drawableLeft="@drawable/ic_lock"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:inputType="textPassword"
+            android:hint="     Enter Password"
+            android:background="@color/my_color"
+            />
+
+      </LinearLayout>
+
+
+    <Button
+
+        android:id="@+id/btn_next"
+        style="@style/custom_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="@color/my_color"
+        android:text="@string/new_acc"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:layout_margin="10dp"/>
+
+</LinearLayout>
